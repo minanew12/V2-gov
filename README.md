@@ -13,10 +13,6 @@ cycle from lower interest rate paying troves to higher interest rate paying trov
 price stability for the BOLD token around the peg, balancing demand and supply for BOLD, without the need for
 active governance or monetary interventions.
 
-The protocol has built-in incentives that encourage both price stability as well as liquidity for the BOLD stablecoin.
-With 75% of revenues from borrowing activities used to incentivize the Stability Pool (SP), and the remaining 25% of
-revenues from borrowing activities (incentive portion) allocated to the Modular Initiative based Governance.
-
 Modular Initiative based Governance allows LQTY holders to allocate votes, earned through staking,
 to direct the incentive portion to arbitrary addresses, which are specified as Initiatives. Voting activity is snapshotted
 in a decentralized manner and paid out at the end of weekly epochs.
