@@ -13,10 +13,6 @@ cycle from lower interest rate paying troves to higher interest rate paying trov
 price stability for the BOLD token around the peg, balancing demand and supply for BOLD, without the need for
 active governance or monetary interventions.
 
-Modular Initiative based Governance allows LQTY holders to allocate votes, earned through staking,
-to direct the incentive portion to arbitrary addresses, which are specified as Initiatives. Voting activity is snapshotted
-in a decentralized manner and paid out at the end of weekly epochs.
-
 ## Staking
 
 Staking allows LQTY token holders to deposit LQTY to accrue voting power which can be used to direct Incentives, while
